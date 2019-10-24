@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="icon_index_pc_egg_on" data-name="icon_index_pc egg_on" transform="translate(-310 -193)">
+        <path id="Path_16" d="M-2.112-1.425A11.14 11.14 0 0 0-8.925-4.25c-7.45 0-15.9 11.313-15.9 22.35a21.357 21.357 0 0 0 .262 3.288c1.4 9.05 8.512 14.362 15.638 14.362 7.95 0 15.9-6.6 15.9-17.65A26.6 26.6 0 0 0-2.112-1.425" class="cls-1" data-name="Path 16" transform="translate(338.825 197.25)"/>
+        <path id="Rectangle_1457" d="M0 0h40v40H0z" class="cls-2" data-name="Rectangle 1457" transform="translate(310 193)"/>
+    </g>
+</svg>

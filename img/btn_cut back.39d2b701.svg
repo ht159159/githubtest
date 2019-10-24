@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:#c2c2c2}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="btn_cut_back" data-name="btn_cut back" transform="translate(-162 -400)">
+        <circle id="Ellipse_35" cx="10" cy="10" r="10" class="cls-1" data-name="Ellipse 35" transform="translate(162 400)"/>
+        <rect id="Rectangle_1570" width="12" height="2" class="cls-2" data-name="Rectangle 1570" rx="1" transform="translate(166 409)"/>
+    </g>
+</svg>

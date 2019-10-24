@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#feb433}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1468" d="M0 0h16v16H0z" class="cls-1" data-name="Rectangle 1468"/>
+        </clipPath>
+    </defs>
+    <g id="icon_index_withdraw" class="cls-2">
+        <g id="團隊投注">
+            <path id="Path_91" d="M25.529 22.749L23.277 20.5a1.967 1.967 0 0 0-2.289-.359l-.67-.67a5.756 5.756 0 1 0-.85.849l.67.67a1.967 1.967 0 0 0 .359 2.289l2.252 2.252a1.966 1.966 0 0 0 2.78-2.78zm-14.223-6.9a4.547 4.547 0 1 1 4.547 4.551 4.552 4.552 0 0 1-4.547-4.547zm12.294 8.83l-2.252-2.252a.764.764 0 0 1 1.081-1.081l2.25 2.254a.764.764 0 0 1-1.079 1.079zm0 0" class="cls-1" data-name="Path 91" transform="translate(-10.105 -10.105)"/>
+        </g>
+    </g>
+</svg>

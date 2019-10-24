@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="icon_index_fastThree_on" transform="translate(-114 -193)">
+        <path id="快三_工作區域_1" d="M32 0H8a8.024 8.024 0 0 0-8 8v24a8.024 8.024 0 0 0 8 8h24a8.024 8.024 0 0 0 8-8V8a8.024 8.024 0 0 0-8-8zM13.38 32.78a4.356 4.356 0 1 1 0-6.16 4.358 4.358 0 0 1 0 6.16zm9.7-9.7a4.356 4.356 0 1 1 0-6.16 4.358 4.358 0 0 1 0 6.16zm9.7-9.7a4.356 4.356 0 1 1 0-6.16 4.358 4.358 0 0 1 0 6.16z" class="cls-1" data-name="快三_工作區域 1" transform="translate(114 193)"/>
+    </g>
+</svg>

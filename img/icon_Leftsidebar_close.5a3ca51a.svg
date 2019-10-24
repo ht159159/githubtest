@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#feb433}.cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="icon_Left_sidebar_close" data-name="icon_Left sidebar_close" transform="translate(-15 -16)">
+        <path id="Menu" d="M-6152 8.414l-6.364 6.364-1.415-1.414 6.365-6.364-6.364-6.365 1.415-1.413 6.363 6.364 6.364-6.364 1.414 1.413-6.363 6.365 6.364 6.364-1.414 1.414z" class="cls-1" transform="translate(6175 17)"/>
+        <path id="Rectangle_1446" d="M0 0h16v16H0z" class="cls-2" data-name="Rectangle 1446" transform="translate(15 16)"/>
+    </g>
+</svg>

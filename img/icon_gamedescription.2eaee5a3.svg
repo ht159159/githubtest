@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:#7a7a7a}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#feb433}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1547" d="M0 0h20v20H0z" class="cls-1" data-name="Rectangle 1547" transform="translate(330 173)"/>
+        </clipPath>
+    </defs>
+    <g id="icon_game_description" data-name="icon_game description" transform="translate(-330 -173)">
+        <g id="icon_game_description-2" class="cls-2" data-name="icon_game description">
+            <g id="玩法說明" transform="translate(330 173)">
+                <g id="Group_98" data-name="Group 98">
+                    <g id="Group_97" data-name="Group 97">
+                        <path id="Union_32" d="M-6194.219-153a.781.781 0 0 1-.782-.78V-163a10 10 0 0 1 10-10 9.995 9.995 0 0 1 10 10 9.994 9.994 0 0 1-10 10zm.781-10v8.438h8.438a8.432 8.432 0 0 0 8.438-8.438 8.433 8.433 0 0 0-8.437-8.438 8.434 8.434 0 0 0-8.439 8.438zm7.1 4.456a1.045 1.045 0 0 1 1.034-1.048 1.058 1.058 0 0 1 1.05 1.048 1.058 1.058 0 0 1-1.05 1.048 1.045 1.045 0 0 1-1.037-1.049zm.272-2.9a2.494 2.494 0 0 1 .913-2.071c.449-.381 1.211-.8 1.211-1.538 0-.627-.544-.927-1.225-.927-1.389 0-1.09 1.049-1.826 1.049a.781.781 0 0 1-.816-.777c0-.734.844-1.824 2.682-1.824 1.743 0 2.9.967 2.9 2.247a3.489 3.489 0 0 1-1.525 2.492 1.708 1.708 0 0 0-.763 1.7c0 .26-.135.558-.8.558-.564.002-.754-.202-.754-.909z" class="cls-3" data-name="Union 32" transform="translate(6195 173)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
